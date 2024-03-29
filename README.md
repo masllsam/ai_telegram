@@ -22,7 +22,7 @@ This is a Telegram bot that allows you to converse with the AI assistant Claude 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/ai_telegram.git
+   git clone https://github.com/masllsam/ai_telegram.git
    ```
 
 2. Install the required dependencies:
